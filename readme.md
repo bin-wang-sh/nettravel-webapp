@@ -1,4 +1,4 @@
-# Image classifier project
+# Web application project for Wine analysis
 
 ## 1. Installation
 I use python 3.5 to create this project and the main libraries I used are:
