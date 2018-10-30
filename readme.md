@@ -15,7 +15,7 @@ The detailed list is included in requirements.txt
 Project code is deployed an analysis result as a web application in the internet. The web application Programming is a project in Udacity Data Scientist Nanodegree program. In this project, I first develop code for an Chinese wine marketing analysis, then use bootstrap framework to design a web page and then plot the figure with plotly chart libary and flask, finally use heroku website to deploy the web application.
 
 ## 3. File Descriptions
-webapp
+- webapp
      - data
      - nettravelapp
      - nettravelapp.py
@@ -24,21 +24,21 @@ webapp
      - readme.md
      - requirements.txt
      - wrangling_script
-webapp\data
+- webapp\data
      - wine.csv
-webapp\nettravelapp
+- webapp\nettravelapp
      - routes.py
      - static
      - templates
      - __init__.py
-webapp\nettravelapp\static
+- webapp\nettravelapp\static
      - img
-webapp\nettravelapp\static\img
+- webapp\nettravelapp\static\img
      - githublogo.png
      - linkedinlogo.png
-webapp\nettravelapp\templates
+- webapp\nettravelapp\templates
      - index.html
-webapp\wrangling_scripts
+- webapp\wrangling_scripts
      - wrangle_data.py
 
 ## 4. Summary
